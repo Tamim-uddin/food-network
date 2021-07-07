@@ -89,7 +89,7 @@ span{
     margin-top: 10px;
     width: 100%;
     height: 48vh;
-    background-image: url(images/shapes/7.png);
+    background-image:url(images/shapes/7.png)
 }  
 .left-side img{
     padding-top: 30px;
@@ -108,7 +108,42 @@ span{
 }
 .right-side p{
     padding-bottom: 40px;
+    
 }
+.recipe{
+    width: 100%;
+    padding-top: 10px;
+    
+}
+.content{
+    width: 100%;
+    text-align: center;
+}
+.content p{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.title {
+    box-shadow: gray 5px 5px 5px  5px;
+    border-image-slice:1;
+    width: 25%;
+    height: auto;
+    padding: 10px;
+    margin-right: 60px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.title img{
+    width:100%;
+    height: auto;
+}
+.flax-box{
+    display: flex;
+    padding: 50px; 
+}
+
+
 
 
 
