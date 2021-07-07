@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0; 
+    font-family:'Poppins', sans-serif;
+}
+section{
+    display: flex;  
+}
+span{
+    color:chocolate;
+}
+.order-food{
+    width: 50%;
+    padding-left: 80px;
+    padding-top: 100px;
+  
+}
+.order-food h1{
+    font-size:40px;
+}
+.order-food p{
+    padding-bottom: 15px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(PaleVioletRed,LightPink);
+    color:white;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius:30px;
+}
+.food-pic img{
+    width: 80%;
+  
+}
